@@ -66,3 +66,16 @@ Ces commandes permettent :
 Sur votre compte GitHub, replacez-vous dans l'onglet "Actions" afin de visualiser le build et le déploiement en cours. Une fois terminé, rendez-vous sur https://my_username.github.io
 
 🎉 FÉLICITATIONS, votre thème a été déployé.
+
+## Aller plus loin
+Maintenant que les fondations de votre thème sont posées et le mécanisme pour le mettre à jour est acquis, de nouveaux horizons s'offrent à vous. Voici quelques suggestions pour aller encore plus loin :
+
+📌 Familiarisez-vous avec la structure du HTML : commencer par remplacer les informations d'exemples par vos propres informations. Ce moment clé vous donnera l'opportunité de mieux comprendre la structure du code.
+
+📌 Poursuivez en modifiant le rendu de ce thème, formatage du texte, couleurs, etc. Ici, CSS et Bootstrap seront vos alliés.
+
+📌 Une fois cette page mise à jour selon vos envies et fort de l'expérience acquise, vous êtes prêt pour la compléter avec de nouveaux éléments : nouvelles sections, nouvelles photos, nouvelles animations, etc. tout est possible ! Ici, cela sera HTML, CSS, Bootstrap mais aussi JavaScript qui pourront vous être utiles.
+
+📌 Vous avez un nom de domaine ? Pourquoi ne pas l'utiliser pour mettre en place une redirection vers votre création ?
+
+📌 Passez à la vitesse supérieure ! Si de nouveaux besoins apparaissent, comme la mise en place de formulaire, la création d'articles, la gestion d'utilisateurs... Vous aurez alors besoin d'un nouveau système d'hébergement ainsi que d'un back-office.
