@@ -7,6 +7,9 @@ Développe et déploie ton portfolio en quelques minutes, tu pourras ensuite le 
 - les bases de Git
 - GitHub et GitHub Pages
 
+## Prérequis :
+Git : https://git-scm.com/downloads
+
 ## Création du dépôt Git
 ### 1. Créez un dépôt (repository) distant sur GitHub
 Connectez-vous sur votre compte GitHub et créez un nouveau dépôt public nommé my_username.github.io,my_username correspondant à votre nom d'utilisateur sur GitHub.
