@@ -9,6 +9,7 @@ Développe et déploie ton portfolio en quelques minutes, tu pourras ensuite le 
 
 ## Prérequis :
 Git : https://git-scm.com/downloads
+VsCode : https://code.visualstudio.com/download
 
 ## Création du dépôt Git
 ### 1. Créez un dépôt (repository) distant sur GitHub
@@ -51,7 +52,9 @@ Décompressez l'archive, copiez son contenu, à savoir le fichier index.html et 
 Dans votre terminal, placez-vous dans ce dossier et effectuer ces commandes :
 
 `git add --all`
+
 `git commit -m "init Boostrap theme"`
+
 `git push -u origin main`
 
 Ces commandes permettent :
