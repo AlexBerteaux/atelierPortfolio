@@ -25,18 +25,18 @@ Une fois le processus terminé avec succès, rendez-vous sur https://my_username
 
 Maintenant, il est temps d'étoffer cette page index.html
 
-3. Récupérez votre dépôt en local
+### 3. Récupérez votre dépôt en local
 En local, ouvrez un terminal et placez-vous à l'endroit où vous souhaitez cloner votre dépôt distant.
 
 git clone https://github.com/my_username/my_username.github.io
 cd my_username.github.io
 Visualisez votre tout premier commit avec la commande git log :
-
 git log
-4. Mise en forme avec Bootstrap
+
+### 4. Mise en forme avec Bootstrap
 Pour poursuivre le travail, vous allez vous baser sur l'un des thèmes gratuitement proposé ici par Bootstrap.
 
-Précisément, nous allons télécharger les ressources du thème resume 📥
+Précisément, nous allons télécharger les ressources du thème resume 📥: https://startbootstrap.com/theme/resume
 
 À noter
 
@@ -50,16 +50,15 @@ Décompressez l'archive, copiez son contenu, à savoir le fichier index.html et 
 
 Dans votre terminal, placez-vous dans ce dossier et effectuer ces commandes :
 
-git add --all 
-git commit -m "init Boostrap theme"
-git push -u origin main
+`git add --all`
+`git commit -m "init Boostrap theme"`
+`git push -u origin main`
+
 Ces commandes permettent :
 
-D'intégrer les nouveaux éléments du thème au dépôt local.
-
-De les regrouper sous le commit "init Boostrap theme".
-
-De les transmettre à votre dépôt distant hébergé sur votre compte GitHub.
+- D'intégrer les nouveaux éléments du thème au dépôt local.
+- De les regrouper sous le commit "init Boostrap theme".
+- De les transmettre à votre dépôt distant hébergé sur votre compte GitHub.
 
 Sur votre compte GitHub, replacez-vous dans l'onglet "Actions" afin de visualiser le build et le déploiement en cours. Une fois terminé, rendez-vous sur https://my_username.github.io
 
