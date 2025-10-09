@@ -9,6 +9,7 @@ Développe et déploie ton portfolio en quelques minutes, tu pourras ensuite le 
 
 ## Prérequis :
 Git : https://git-scm.com/downloads
+
 VsCode : https://code.visualstudio.com/download
 
 ## Création du dépôt Git
