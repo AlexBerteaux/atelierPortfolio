@@ -25,7 +25,7 @@ Rendez-vous dans la section `Settings` > `Pages`, activez la branche de déploie
 
 Commit le fichier static.yml
 
-Une fois le processus terminé avec succès, rendez-vous sur https://my_username.github.io
+Une fois le processus terminé avec succès, rendez-vous sur https://my_username.github.io/nomRepository
 
 🎉 FÉLICITATIONS, votre code a été déployé.
 
