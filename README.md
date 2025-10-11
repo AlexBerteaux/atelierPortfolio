@@ -17,7 +17,8 @@ VsCode : https://code.visualstudio.com/download
 Connectez-vous sur votre compte GitHub et créez un nouveau dépôt public nommé my_username.github.io,my_username correspondant à votre nom d'utilisateur sur GitHub.
 
 ### 2. Publiez votre premier "Hello World"
-Directement depuis l'interface graphique de GitHub, ajoutez un fichier index.html et insérez le code HTML suivant \<h1>Hello World !\</h1>
+Directement depuis l'interface graphique de GitHub, ajoutez un fichier index.html et insérez le code HTML suivant 
+`\<h1>Hello World !\</h1>`
 Allez en bas de page pour "enregistrer" votre première contribution (dans le jargon de Git, on dit faire un commit).
 GitHub nous suggère un message de commit, il décrit parfaitement votre action, gardez-le en l'état et commitez ce nouveau fichier grâce au bouton vert.
 
@@ -34,15 +35,15 @@ Maintenant, il est temps d'étoffer cette page index.html
 ### 3. Récupérez votre dépôt en local
 En local, ouvrez un terminal et placez-vous à l'endroit où vous souhaitez cloner votre dépôt distant.
 
-git clone https://github.com/my_username/my_username.github.io
-cd my_username.github.io
+`git clone https://github.com/my_username/my_username.github.io`
+`cd my_username.github.io`
 Visualisez votre tout premier commit avec la commande git log :
-git log
+`git log`
 
 ### 4. Mise en forme avec Bootstrap
 Pour poursuivre le travail, vous allez vous baser sur l'un des thèmes gratuitement proposé ici par Bootstrap.
 
-Précisément, nous allons télécharger les ressources du thème resume 📥: https://startbootstrap.com/theme/resume
+Précisément, nous allons télécharger les ressources du thème resume 📥: https://startbootstrap.com/theme/
 
 À noter
 
@@ -52,9 +53,12 @@ Décompressez l'archive, copiez son contenu, à savoir le fichier index.html et 
 
 À noter
 
-👉 Un fichier index.html existe déjà, votre système d'exploitation devrait vous en alerter. Il s'agit de celui comprenant notre "Hello World", Pas de souci, vous pouvez l'écraser au profit de ce nouveau fichier.
+👉 Un fichier `index.html` existe déjà, votre système d'exploitation devrait vous en alerter. Il s'agit de celui comprenant notre "Hello World", Pas de souci, vous pouvez l'écraser au profit de ce nouveau fichier.
 
 Dans votre terminal, placez-vous dans ce dossier et effectuer ces commandes :
+
+`git config --global user.name "Your Name"`
+`git config --global user.email "your.email@example.com"`
 
 `git add --all`
 
