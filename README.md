@@ -44,7 +44,7 @@ Visualisez votre tout premier commit avec la commande git log :
 ### 4. Mise en forme avec Bootstrap
 Pour poursuivre le travail, vous allez vous baser sur l'un des thèmes gratuitement proposé ici par Bootstrap.
 
-Précisément, nous allons télécharger les ressources du thème resume 📥: https://startbootstrap.com/theme/
+Précisément, nous allons télécharger les ressources du thème resume 📥: [https://startbootstrap.com/theme/](https://startbootstrap.com/themes/portfolio-resume)
 
 À noter
 
