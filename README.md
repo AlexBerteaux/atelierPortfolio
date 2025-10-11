@@ -33,9 +33,12 @@ Maintenant, il est temps d'étoffer cette page index.html
 ### 3. Récupérez votre dépôt en local
 En local, ouvrez un terminal et placez-vous à l'endroit où vous souhaitez cloner votre dépôt distant.
 
-`git clone https://github.com/my_username/my_username.github.io`
+`git clone https://github.com/my_username/my_repo.git`
+
 `cd my_username.github.io`
+
 Visualisez votre tout premier commit avec la commande git log :
+
 `git log`
 
 ### 4. Mise en forme avec Bootstrap
