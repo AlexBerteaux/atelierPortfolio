@@ -35,7 +35,7 @@ En local, ouvrez un terminal et placez-vous à l'endroit où vous souhaitez clon
 
 `git clone https://github.com/my_username/my_repo.git`
 
-`cd my_username.github.io`
+`cd my_repo`
 
 Visualisez votre tout premier commit avec la commande git log :
 
