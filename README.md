@@ -22,9 +22,7 @@ Directement depuis l'interface graphique de GitHub, ajoutez un fichier index.htm
 Allez en bas de page pour "enregistrer" votre première contribution (dans le jargon de Git, on dit faire un commit).
 GitHub nous suggère un message de commit, il décrit parfaitement votre action, gardez-le en l'état et commitez ce nouveau fichier grâce au bouton vert.
 
-Rendez-vous dans la section `Settings` > `Pages`, activez la branche de déploiement de votre site --> `main` > `/(root)`
-
-Commit le fichier static.yml
+Rendez-vous dans la section `Settings` > `Pages`, activez la branche de déploiement de votre site --> `main` > `/(root)` > `save`
 
 Une fois le processus terminé avec succès, rendez-vous sur https://my_username.github.io/nomRepository
 
