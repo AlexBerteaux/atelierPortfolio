@@ -14,7 +14,7 @@ VsCode : https://code.visualstudio.com/download
 
 ## Création du dépôt Git
 ### 1. Créez un dépôt (repository) distant sur GitHub
-Connectez-vous sur votre compte GitHub et créez un nouveau dépôt public nommé my_username.github.io,my_username correspondant à votre nom d'utilisateur sur GitHub.
+Connectez-vous sur votre compte GitHub et créez un nouveau dépôt public que vous pouvez nommer en référence à un CV ou portfolio.
 
 ### 2. Publiez votre premier "Hello World"
 Directement depuis l'interface graphique de GitHub, ajoutez un fichier index.html et insérez le code HTML suivant 
